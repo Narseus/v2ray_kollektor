@@ -25,7 +25,7 @@ jobs:
             "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no4.txt"
             "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no5.txt"
             "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/light.txt"                                      
-"https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality#Aleph%20%E2%9D%A4%F0%9F%A4%8D%F0%9F%92%9A%20FREE2CONFIG"
+            "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality#Aleph%20%E2%9D%A4%F0%9F%A4%8D%F0%9F%92%9A%20FREE2CONFIG"
           )
           > merged_config.txt
           for url in "${FILES[@]}"; do
